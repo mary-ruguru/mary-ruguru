@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/Marya"><img src="https://api.daily.dev/devcards/451e1ec79d5f4ac88d75102048a530b9.png?r=cgb" width="400" alt="Maryann's Dev Card"/></a>
+
+
 <!--
 **mary-ruguru/mary-ruguru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
