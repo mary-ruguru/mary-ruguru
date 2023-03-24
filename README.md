@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 <img
-  src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg"
+  src="https://github.com/<mary-ruguru>/<repository-name>/blob/<branch-name>/images/stat.svg"
   alt="Alternative Text"
 />
 Example:
