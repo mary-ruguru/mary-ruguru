@@ -10,6 +10,9 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) 
 
 
+[![](https://visitcount.itsvg.in/api?id=mary-ruguru&label=Profile%20Views&color=1&icon=7&pretty=false)](https://visitcount.itsvg.in)
+
+
 <!--
 **mary-ruguru/mary-ruguru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
