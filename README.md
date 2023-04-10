@@ -20,6 +20,5 @@ I'm an upcoming Software developer, based in Nairobi, Kenya.
 - 🌱 I’m currently learning Ruby on rails
 - 👯 I’m looking to collaborate on any open source project
 - 💬 Ask me about React, Bootstrap, JavaScript, Ruby
-- 📫 How to reach me: .
 - ⚡ Fun fact: I love reading novels: current one reading is Mastering Your Emotions.
 -->
