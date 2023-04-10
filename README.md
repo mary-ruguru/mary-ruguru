@@ -1,4 +1,4 @@
-### Hi there 👋, i'm Maryann
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, i'm Maryann
 
 [Linkedin](https://www.linkedin.com/in/maryann-ruguru-10a5a81b3/) |
 [Twitter](https://twitter.com/__Marya) |
