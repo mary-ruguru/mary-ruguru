@@ -2,6 +2,7 @@
 
 [Linkedin](https://www.linkedin.com/in/maryann-ruguru-10a5a81b3/) |
 [Twitter](https://twitter.com/__Marya) |
+[Email](maryann:maryannruguru20@gmail.com)
 
 <!--<a href="https://app.daily.dev/Marya"><img src="https://api.daily.dev/devcards/451e1ec79d5f4ac88d75102048a530b9.png?r=cgb" width="400" alt="Maryann's Dev Card"/></a>  -->
 
