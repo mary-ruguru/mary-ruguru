@@ -1,7 +1,8 @@
 ### <h1 style="color:#FFED00">Hello everyone, <span  style="color:#16FF00">I am Maryann!</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
 <p>
-  <img src="[./assets/giphy.gif](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia3.giphy.com%2Fmedia%2FRbDKaczqWovIugyJmW%2Fgiphy.gif&f=1&nofb=1&ipt=5bc2d5550037e2fcbd1942c29393327033e1316410f9ce41d0a6f2311a7a81ec&ipo=images)" />
+  <img src="![image](https://github.com/mary-ruguru/mary-ruguru/assets/86890821/551e9d0d-b139-474a-ba1e-9bca5aa4609b)
+" />
 </p>
 
 [Linkedin](https://www.linkedin.com/in/maryann-ruguru-10a5a81b3/) |
