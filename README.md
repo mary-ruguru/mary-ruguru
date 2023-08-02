@@ -1,7 +1,7 @@
 ### <h1 style="color:#FFED00">Hello everyone, <span  style="color:#16FF00">I am Maryann!</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
-<p>
-  <img src="![image](https://github.com/mary-ruguru/mary-ruguru/assets/86890821/551e9d0d-b139-474a-ba1e-9bca5aa4609b)
+<p align="center">
+  <img src="<iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
 " />
 </p>
 
