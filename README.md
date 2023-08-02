@@ -1,6 +1,8 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, i'm Maryann
-
 ### <h1 style="color:#FFED00">Hello everyone, <span  style="color:#16FF00">I am Maryann!</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+
+<p align="center">
+  <img src="[./assets/giphy.gif](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia3.giphy.com%2Fmedia%2FRbDKaczqWovIugyJmW%2Fgiphy.gif&f=1&nofb=1&ipt=5bc2d5550037e2fcbd1942c29393327033e1316410f9ce41d0a6f2311a7a81ec&ipo=images)" />
+</p>
 
 [Linkedin](https://www.linkedin.com/in/maryann-ruguru-10a5a81b3/) |
 [Twitter](https://twitter.com/__Marya) |
