@@ -2,6 +2,7 @@
 
 <p align="center">
 <img src="./assets/giphy.gif" />
+  
 </p>
 
 [Linkedin](https://www.linkedin.com/in/maryann-ruguru-10a5a81b3/) |
