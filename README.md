@@ -19,12 +19,15 @@ Hello! I'm Maryann, an upcoming Software Developer based in Nairobi, Kenya. I ha
 
 # My Tools and Technologies:
 
-<p align="center">
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) 
-<img src="https://img.shields.io/static/v1?label=&labelColor=0078D7&message=VS CODE&color=0078D7&logoColor=blue&style=for-the-badge&logo=visual studio code&logoColor=white"/>
-        <img src="https://img.shields.io/static/v1?label=&labelColor=E24329&message=GIT&color=E24329&style=for-the-badge&logo=git&logoColor=white"/>
-        <img src="https://img.shields.io/static/v1?label=&labelColor=000000&message=GITHUB&color=000000&logoColor=black&style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
 
 # Collaboration
 
