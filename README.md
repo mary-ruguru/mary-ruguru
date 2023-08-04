@@ -17,9 +17,14 @@
 
 Hello! I'm Maryann, an upcoming Software Developer based in Nairobi, Kenya. I have a passion for coding and enjoy working on projects that challenge me to learn and grow. Currently, I am working on a Ruby on Rails backend project with a React frontend.
 
-# My Tools of Mass Destruction:
+# My Tools and Technologies:
 
+<p align="center">
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) 
+<img src="https://img.shields.io/static/v1?label=&labelColor=0078D7&message=VS CODE&color=0078D7&logoColor=blue&style=for-the-badge&logo=visual studio code&logoColor=white"/>
+        <img src="https://img.shields.io/static/v1?label=&labelColor=E24329&message=GIT&color=E24329&style=for-the-badge&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/static/v1?label=&labelColor=000000&message=GITHUB&color=000000&logoColor=black&style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 # Collaboration
 
