@@ -1,14 +1,14 @@
 ### <h1 style="color:#FFED00">Hello everyone, <span  style="color:#16FF00">I am Maryann!</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
 <p align="center">
-<img src="./assets/giphy.gif" />
+
   
 </p>
-
+<p align="center">
 [Linkedin](https://www.linkedin.com/in/maryann-ruguru-10a5a81b3/) |
 [Twitter](https://twitter.com/__Marya) |
 [Email](mailto:maryannruguru20@gmail.com)
-
+</p>
 <!--<a href="https://app.daily.dev/Marya"><img src="https://api.daily.dev/devcards/451e1ec79d5f4ac88d75102048a530b9.png?r=cgb" width="400" alt="Maryann's Dev Card"/></a>  -->
 
 [![](https://visitcount.itsvg.in/api?id=mary-ruguru&label=Profile%20Views&color=1&icon=7&pretty=false)](https://visitcount.itsvg.in)
