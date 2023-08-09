@@ -1,4 +1,4 @@
-### <h1 style="color:#FFED00">Hello everyone, <span  style="color:#16FF00">I am Maryann!</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+### <h1 style="color:#FFED00">Hello everyone, <span  style="color:#16FF00">I'm Maryann!</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
 [Linkedin](https://www.linkedin.com/in/maryann-ruguru-10a5a81b3/) |
 [Twitter](https://twitter.com/__Marya) |
@@ -9,7 +9,7 @@
 
 # About Me
 
-Hello! I'm Maryann, an upcoming Software Developer based in Nairobi, Kenya. I have a passion for coding and enjoy working on projects that challenge me to learn and grow. Currently, I am working on a Ruby on Rails backend project with a React frontend.
+Hello! I'm Maryann, an upcoming Software Developer based in Nairobi, Kenya. I'm passionate about coding and enjoy working on projects that challenge me to learn and grow. Currently, I am working on a Ruby on Rails backend project with a React frontend.
 
 # My Tools and Technologies:
 
