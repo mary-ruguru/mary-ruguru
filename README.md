@@ -9,7 +9,7 @@
 
 # About Me
 
-Hello! I'm Maryann, an upcoming Software Developer based in Nairobi, Kenya. I'm passionate about coding and enjoy working on projects that challenge me to learn and grow. Currently, I am working on Angular.
+Hello! I'm Maryann, an upcoming Software Developer based in Nairobi, Kenya. I'm passionate about coding and enjoy working on projects that challenge me to learn and grow. Currently, I am working on Angular and typescript.
 
 # My Tools and Technologies:
 
