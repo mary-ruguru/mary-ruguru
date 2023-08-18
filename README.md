@@ -1,6 +1,6 @@
 ### <h1 style="color:#FFED00">Hello Everyone, <span  style="color:#16FF00">I'm Maryann!</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1> 
 
-[Linkedin](https://www.linkedin.com/in/maryann-ruguru-10a5a81b3/) | 
+[Linkedin](https://www.linkedin.com/in/maryann-ruguru-10a5a81b3/) |  
 [Twitter](https://twitter.com/__Marya) |
 [Email](mailto:maryannruguru20@gmail.com)
 <!--<a href="https://app.daily.dev/Marya"><img src="https://api.daily.dev/devcards/451e1ec79d5f4ac88d75102048a530b9.png?r=cgb" width="400" alt="Maryann's Dev Card"/></a>  -->
