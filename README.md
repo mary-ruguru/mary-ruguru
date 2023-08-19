@@ -2,7 +2,7 @@
 
 [Linkedin](https://www.linkedin.com/in/maryann-ruguru-10a5a81b3/) | [Twitter](https://twitter.com/__Marya) |
 [Email](mailto:maryannruguru20@gmail.com)
-<!--<a href="https://app.daily.dev/Marya"><img src="https://api.daily.dev/devcards/451e1ec79d5f4ac88d75102048a530b9.png?r=cgb" width="400" alt="Maryann's Dev Card"/></a>  -->
+<!--<a href="https://app.daily.dev/Marya"><img src="https://api.daily.dev/devcards/451e1ec79d5f4ac88d75102048a530b9.png?r=cgb" width="400" alt="Maryann's Dev Card"/></a>  -->  
 
 [![](https://visitcount.itsvg.in/api?id=mary-ruguru&label=Profile%20Views&color=1&icon=7&pretty=false)](https://visitcount.itsvg.in)
 
