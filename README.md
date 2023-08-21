@@ -6,7 +6,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=mary-ruguru&label=Profile%20Views&color=1&icon=7&pretty=false)](https://visitcount.itsvg.in)
 
-# About Me     
+# About Me        
 
 Hello! I'm Maryann, an upcoming Software Developer based in Nairobi, Kenya. I'm passionate about coding and enjoy working on projects that challenge me to learn and grow. Currently, I am working on learning Angular and typescript. 
 
